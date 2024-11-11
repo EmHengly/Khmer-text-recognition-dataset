@@ -40,7 +40,7 @@ For more information, please reach out:
 ## License
 Specify the license you’re using here.
 
-## cknowledgments
+## Acknowledgments
 This research is supported by ViLa Lab and funded by the ARES (Academy of Research and Higher Education) program. We are grateful for their support in advancing text recognition for complex scripts like Khmer.
 
 
