@@ -20,8 +20,7 @@ Below is an example image from the dataset, along with its label structure:
 
 
 ## Getting Started
-1. **Download the Dataset:** You can download the dataset files [Visit Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/emhengly/khmer-text-recognition-dataset))
-.
+1. **Download the Dataset:** You can download the dataset files from [Kaggle Dataset](https://www.kaggle.com/datasets/emhengly/khmer-text-recognition-dataset).
 2. **Unzip the Files:** Make sure to unzip the downloaded files if they come in compressed format.
 3. **Explore the Label File:** The label file maps each image to its Khmer word label, allowing you to easily load and preprocess data for model training.
 
