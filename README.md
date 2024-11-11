@@ -1,5 +1,5 @@
 
-
+# Khmer Text Recognition Dataset
 
 ## Overview
 This dataset contains **136,117 images** of Khmer words, specifically chosen for word recognition tasks. It supports developing and evaluating Khmer text recognition models, focusing on high-quality word images and precise labeling. The dataset is ideal for training models to understand the unique characteristics of Khmer script, known for its intricate character shapes and complex structure.
