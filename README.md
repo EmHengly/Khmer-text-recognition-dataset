@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/915ee2b4-bd82-4311-908b-47487b74a41f)![image](https://github.com/user-attachments/assets/c54383df-5354-4ad0-89e3-43b13a968dbf)# Khmer-text-recognition-dataset
+
 
 
 ## Overview
@@ -16,7 +16,7 @@ This dataset contains **136,117 images** of Khmer words, specifically chosen for
 ### Example Image
 Below is an example image from the dataset, along with its label structure:
 
-![Dataset Example](images/dataset_example.png)
+![Dataset Example](https://github.com/user-attachments/assets/915ee2b4-bd82-4311-908b-47487b74a41f)
 
 
 ## Getting Started
