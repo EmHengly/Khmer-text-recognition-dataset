@@ -1,8 +1,8 @@
-# Khmer-text-recognition-dataset
+![image](https://github.com/user-attachments/assets/915ee2b4-bd82-4311-908b-47487b74a41f)![image](https://github.com/user-attachments/assets/c54383df-5354-4ad0-89e3-43b13a968dbf)# Khmer-text-recognition-dataset
 
 
 ## Overview
-This dataset contains **136,117 images** of Khmer words, specifically chosen for word recognition tasks. It supports the development and evaluation of Khmer text recognition models, focusing on high-quality word images and precise labeling. The dataset is ideal for training models to understand the unique characteristics of Khmer script, known for its intricate character shapes and complex structure.
+This dataset contains **136,117 images** of Khmer words, specifically chosen for word recognition tasks. It supports developing and evaluating Khmer text recognition models, focusing on high-quality word images and precise labeling. The dataset is ideal for training models to understand the unique characteristics of Khmer script, known for its intricate character shapes and complex structure.
 
 ## Dataset Details
 - **Total Word Images:** 136,117
@@ -13,16 +13,23 @@ This dataset contains **136,117 images** of Khmer words, specifically chosen for
   - Each row represents an image and its corresponding Khmer word label.
 - **Usage:** This dataset can be used for both training and testing Khmer text recognition models. The labeled format supports supervised learning tasks, requiring both image inputs and text outputs.
 
+### Example Image
+Below is an example image from the dataset, along with its label structure:
+
+![Dataset Example](images/dataset_example.png)
+
+
 ## Getting Started
-1. **Download the Dataset:** You can download the dataset files from Kaggle.
+1. **Download the Dataset:** You can download the dataset files [Visit Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/emhengly/khmer-text-recognition-dataset))
+.
 2. **Unzip the Files:** Make sure to unzip the downloaded files if they come in compressed format.
 3. **Explore the Label File:** The label file maps each image to its Khmer word label, allowing you to easily load and preprocess data for model training.
 
 ## Citation
 If you use this dataset in your research, please cite:
-> Em, H., Valy, D., Gosselin, B. & Kong, P. (2024). Word Spotting on Khmer Printed Documents. *Techno Science Research Journal (TSRJ)*.
+Em, H., Valy, D., Gosselin, B. & Kong, P. (2024). Word Spotting on Khmer Printed Documents. *Techno Science Research Journal (TSRJ)*.
 
-## Contact Information
+# Contact Information
 For more information, please reach out:
 
 - **Author:** Hengly Em  
@@ -34,9 +41,9 @@ For more information, please reach out:
 ## License
 Specify the license you’re using here.
 
-## Acknowledgments
-Thank you for supporting research on Khmer word recognition. This dataset aims to advance text recognition for complex scripts like Khmer.
+## cknowledgments
+This research is supported by ViLa Lab and funded by the ARES (Academy of Research and Higher Education) program. We are grateful for their support in advancing text recognition for complex scripts like Khmer.
 
----
 
-This `README.md` will automatically display in the Kaggle dataset page, providing users with a clear and organized description. Be sure to select an appropriate license on Kaggle to clarify how others can use the data.
+
+
